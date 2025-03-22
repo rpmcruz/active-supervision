@@ -7,8 +7,9 @@ Important notes: `train1.py` trains the classifier and decoder (student and teac
 
 ![Synthetic generation](image2.png)
 
-Published paper:
+**Published paper:**
 * R. Cruz, A. Shihavuddin, M. Maruf, J. Cardoso, "[Active Supervision: Human in the Loop](https://doi.org/10.1007/978-3-031-49018-7_38)", Iberoamerican Congress on Pattern Recognition 2023 (CIARP)	
-Related paper:
+
+**Related paper:**
 * P. Serrano e Silva, R. Cruz, A. Shihavuddin, T. Gonçalves, "[Interpretability-Guided Human Feedback During Neural Network Training](https://doi.org/10.1007/978-3-031-36616-1_22)", Iberian Conference on Pattern Recognition and Image Analysis 2023 (IbPRIA)
     * In this related paper, we use xAI techniques to ask the human if the model is looking at regions that make sense for the decision. If not, we penalize the model.
